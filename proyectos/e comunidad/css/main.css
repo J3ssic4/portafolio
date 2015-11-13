@@ -1,0 +1,259 @@
+.r{
+	width:220%; 
+	height:220%;
+}
+.q{
+	display:inline-block;
+	text-align:right;
+	margin-top:4%;
+	padding-left:15%;
+	font-size: 18px;
+	color:#CCCCCC;
+}
+.hr{
+	display:inline-table;
+  	margin-left:20px;
+  	margin-right:20px;
+	width:2px;
+	height:15px;
+	color:#CCCCCC;
+}
+.w{
+	background-image:url(../img/semilla.jpg);
+	height:630px;
+	background-repeat:no-repeat;
+	background-size:100%;
+}
+.e{
+	margin-top:-5%;
+	background:#E6E6E6;
+	height:150px;
+}
+.t{
+	margin-top:5%;
+	color:#999999;
+	text-align:center;
+}
+.y{
+	margin-top:15%;
+	margin-left:35%;
+}
+.u{
+	margin-left:46%;
+	margin-top:1%;
+}
+.i{
+	text-align:center;
+	font-size:12px;
+	margin:5px 12px;
+	color:#B2B2B2;
+}
+.o{
+	background-image:url(../img/metodo.jpg);
+	background-size:660px;
+	background-repeat:no-repeat;
+	height:625px;
+	margin-top:30px;
+}
+.p{
+	background-image:url(../img/fondo.jpg);
+	background-size:703px;
+	background-repeat:no-repeat;
+	height:600px;
+	margin-left:660px;
+	margin-top:-625px;
+}
+.a{
+	margin-left:43%;
+	margin-top:10%;
+	width:10%;
+	height:10%;
+}
+.s{
+	text-align:center;
+	color:white;
+	margin-top:2%;
+}
+.d{
+	text-align:center;
+	color:#E6E6E6;
+	margin-top:2%;
+	font-size:10px;
+	
+}
+.f{
+	text-align:center;
+	margin-top:-130px;
+	color:#333333;
+}
+.g{
+	margin: 10px 15%;
+	text-align:justify;
+	color:#333333;
+
+}
+.j{
+	width:50%;
+	height:50%; 
+	margin-left:25%;
+	position: relative;
+	margin-top:5%;
+}
+.k{
+	color:#006B24;
+	font-size:17px;
+	text-align:center;
+	margin-top:2%;
+}
+.h{
+	color:#333333;
+	font-size:12px;
+	padding:0 10px;
+	margin-top:8%;
+	margin-bottom:8%;
+}
+.l{
+	background-color:#2E5C00; 
+	height:850px;
+}
+.z{
+	width:100%;
+	height:100%;
+	margin-top:5%;
+}
+.x{
+	margin-right:7%;
+	margin-left:19%;
+	color:white;
+	text-align:center;
+}
+.x1{
+	margin-top:30%;
+	font-size:33px;
+}
+.x2{
+	font-size:13px ;
+}
+.c{
+	color:white;
+	margin-top:10%;
+	margin-left:1.5%;
+}
+.z1{
+	width:100%;
+	height:100%;
+	margin-top:5%;
+	margin-left:3%;
+}
+.xx{
+	margin-right:7%;
+	margin-left:63%;
+	color:white;
+	text-align:center;
+}
+.xx1{
+	margin-top:15%;
+	font-size:29px;
+}
+.v{
+	margin-top:3%;
+	padding: 0;
+	border-radius: 800px;
+	overflow: hidden;
+	width:55%;
+	height:55%;
+}
+.b{
+	margin:center;
+	text-align:center;
+}
+.n{
+	color:#556B2F;
+	margin-top:5%;
+}
+.m{
+	margin-top:6%;
+}
+.qw{
+	color:#99A682;
+}
+.we{
+	margin-top:5%;
+	width:8%;
+	height:8%;
+}
+.er{
+	background-image:url(../img/fondo2.jpg);
+	height:450px;
+	margin-top:7%;
+}
+.rt{
+	width:100%;
+	height:100%;
+}
+.ty{
+	font-size:25px;
+	margin-left:11%;
+}
+.yu{
+ 	font-size:18px;
+ 	margin-top:3%;
+}
+.ui{
+	 font-size:15px;
+}
+.io{
+	 font-size:12px;
+	 color:#808080;
+}
+#as{
+	margin-left:-475px !important;
+}
+.sd{
+	background-color:#191919;
+	height:400px;
+}
+.df{
+	margin-top:5%;
+	border:white solid 1px;
+	width:325px;
+	height:260px;
+}
+.fg{
+	width:20%;
+	height:20%;
+	margin-top:50%;
+	margin-left:55%;
+}
+.gh{
+	margin-left:20px;
+}
+.hj{
+	height:15%;
+}
+.jk{
+	color:white;
+	margin-top:5%;
+	margin-left:3%;
+}
+.kl{
+	margin-left:20px;
+}
+.ll{
+	margin-left:420px;
+}
+.lz{
+	margin-top:10%;
+}
+.lll{
+	margin-left:440px;
+}
+.lsd{
+	margin-left:547px;
+}
+.zx{
+	color:#808080;
+}
+.xc{
+	color:#FFB84D;
+}
